@@ -1,0 +1,9 @@
+@import 'theme';
+
+$theme-color: black !default;
+
+.theme {
+  h1 {
+    color: $theme-color;
+  }
+}
